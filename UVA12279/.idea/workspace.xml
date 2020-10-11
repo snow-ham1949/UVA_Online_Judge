@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07b1cd95-ed9b-409e-a8f7-63dd7e06c0c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601568798086</updated>
       <workItem from="1601568799211" duration="31000" />
+      <workItem from="1601905126934" duration="32000" />
+      <workItem from="1602054009312" duration="60000" />
     </task>
     <servers />
   </component>
@@ -102,6 +104,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1483" height="196" key="GridCell.Tab.0.bottom" timestamp="1601568830601">
