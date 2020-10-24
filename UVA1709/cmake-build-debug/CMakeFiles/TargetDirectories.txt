@@ -1,0 +1,3 @@
+C:/Users/SnowHam/Documents/GitHub/UVA_Online_Judge/UVA1709/cmake-build-debug/CMakeFiles/UVA1709.dir
+C:/Users/SnowHam/Documents/GitHub/UVA_Online_Judge/UVA1709/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SnowHam/Documents/GitHub/UVA_Online_Judge/UVA1709/cmake-build-debug/CMakeFiles/rebuild_cache.dir

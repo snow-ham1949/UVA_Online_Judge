@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SnowHam/Documents/GitHub/UVA_Online_Judge/UVA1709/main.cpp
+iostream
+-
+cmath
+-
+algorithm
+-
+
